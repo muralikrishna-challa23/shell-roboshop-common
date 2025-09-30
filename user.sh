@@ -6,7 +6,7 @@ APP_NAME="catalogue"
 check_root
 app_user_setup
 app_setup
-nodejs_install
+nodejs_setup
 
 systemd_setup
 
