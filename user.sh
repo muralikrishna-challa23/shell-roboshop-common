@@ -1,7 +1,7 @@
 #!/bin/bash
 
 source ./common.sh
-APP_NAME="catalogue"
+APP_NAME="user"
 
 check_root
 app_user_setup
